@@ -43,7 +43,6 @@ public class HomeWorkApp {
             else {
                 System.out.println("Желтый");
             }
-
     }
 
     public static void compareNumbers() {
