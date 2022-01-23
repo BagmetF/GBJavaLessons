@@ -40,12 +40,9 @@ public class HomeWorkApp {
             else if (value > 100){
                 System.out.println("Зеленый");
             }
-            else
-            {
+            else {
                 System.out.println("Желтый");
             }
-
-
     }
 
     public static void compareNumbers() {
@@ -61,7 +58,7 @@ public class HomeWorkApp {
             }
     }
 
-    }
+}
 
 
 
